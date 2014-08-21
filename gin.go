@@ -1,5 +1,7 @@
 package gin
 
+// xiong hai zi
+
 import (
 	"fmt"
 	"github.com/gin-gonic/gin/render"
